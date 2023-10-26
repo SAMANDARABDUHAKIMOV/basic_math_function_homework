@@ -1,4 +1,4 @@
-def main(a):
+def main(number):
     '''find the absolute value of a and return it
     
     Args:
@@ -7,7 +7,7 @@ def main(a):
     Returns:
         int: the absolute value.
     '''
-     number = 8
+     
     return abs(number)
-    
-print(main(-8))
+number = 8
+print(main(number))

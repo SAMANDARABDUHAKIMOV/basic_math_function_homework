@@ -8,4 +8,11 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return 
+
+
+    return int (x)
+
+a=11
+b=2
+x=a//b
+print (11,2)

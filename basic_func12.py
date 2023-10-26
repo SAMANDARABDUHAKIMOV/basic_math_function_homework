@@ -8,7 +8,7 @@ def main(x):
         float: the result
     '''
 
-    return int(6.453  , 2)
-a =int(6.453)
+    return round(6.453,2)
+a =round(6.453,2 )
 
 print(a)

@@ -1,3 +1,4 @@
+import math
 def main(a):
     '''find the square root of a number and return it.
     
@@ -7,4 +8,7 @@ def main(a):
     Returns:
         float: the absolute value.
     '''
-    return
+    a=math.sqrt(9)
+    return a
+
+print (main(9))  # oxshadiyeee

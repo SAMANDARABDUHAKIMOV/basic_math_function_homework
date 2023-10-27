@@ -12,6 +12,5 @@ def main(a, b):
 
     return c
 
-a=5 
-b=4
-print(main(a,b))
+ 
+print(main(4,5))
